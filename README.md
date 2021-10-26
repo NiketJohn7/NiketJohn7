@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NiketJohn7
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JAVASCRIPT, UNITY, PYTHON, C#
+- 🌱 I’m currently learning JAVASCRIPT, UNITY, PYTHON, C#, C++, C, Kotlin, HTML, CSS
 - 💞️ I’m looking to collaborate on a game company with my friends 
 - 📫 How to reach me nikettjohn@gmail.com 
 
