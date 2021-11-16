@@ -2,11 +2,11 @@
 
 <h3>Biography<h3>
   
-  <p>Name: Niket John</p>
-  <p>Age: 13</p>
-  <p>Gender: Male</p>
-  <p>Pronoun: He,Him,His</p>
-  <p>Nationality: India</p>
+  Name: Niket John
+  Age: 13
+  Gender: Male
+  Pronoun: He,Him,His
+  Nationality: India
   
 
 <!---
