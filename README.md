@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NiketJohn7
+- 👋 Hi, I’m @nikettj
 - 👀 I’m interested in Web Development, Game development and Hacking
 - 🌱 I’m currently learning JAVASCRIPT, UNITY, PYTHON, C#, C++, C, Kotlin, HTML, CSS, Java, Saas, Flexbox
 - 💞️ I’m looking to collaborate on a game company with my friends 
