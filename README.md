@@ -3,9 +3,13 @@
 <h2>Biography<h2>
   
 Name: Niket John
+<br>
 Age: 13
+<br>
 Gender: Male
+<br>
 Pronoun: He,Him,His
+<br>
 Nationality: India
   
 
