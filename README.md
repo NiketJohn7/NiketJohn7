@@ -1,5 +1,14 @@
+<h1>Hi I am Niket John</h1>
 
-  
+<h3>Biography</h3>
+
+Name: Niket John
+Age: 13
+Sex: Male
+Job: Developer
+Nationality: India
+
+<h3>Tools & Technology</h3>
 
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
