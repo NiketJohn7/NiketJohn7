@@ -1,4 +1,4 @@
-<h1>Hi I am Niket John</h1>
+<h1>👋Hi I am Niket John</h1>
 
 <h3>Biography</h3>
 
