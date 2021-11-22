@@ -3,9 +3,13 @@
 <h3>Biography</h3>
 
 Name: Niket John
+<br>
 Age: 13
+<br>
 Sex: Male
+<br>
 Job: Developer
+<br>
 Nationality: India
 
 <h3>Tools & Technology</h3>
