@@ -8,11 +8,18 @@ Age: 13
 <br>
 Sex: Male
 <br>
-Job: Developer
+Job: Web Developer
 <br>
 Nationality: India
 
 <h3>Tools & Technology</h3>
+<h4>Front-End Technologies</h4>
+<ul>
+  <li>JavaScript</li>
+  <li>HTML & CSS</li>
+  <li>Bootstrap</li>
+  <li>Saas</li>
+</ul>
 
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
