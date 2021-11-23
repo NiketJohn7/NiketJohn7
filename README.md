@@ -20,7 +20,11 @@ Nationality: India
   <li>Bootstrap</li>
   <li>Saas</li>
 </ul>
-
+<h4>Back-End Technology</h4>
+<ul>
+  <li>Python (django&Flask)</li>
+  <li>Node Js</li>
+ </ul>
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
