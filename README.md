@@ -8,9 +8,22 @@ Age: 13
 <br>
 Sex: Male
 <br>
-Job: Web Developer
+Job: Developer
 <br>
 Nationality: India
+
+<h3>Programming Languges</h3>
+<ul>
+  <li>C</li>
+  <li>C++</li>
+  <li>C#</li>
+  <li>Java</li>
+  <li>Python</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>TypeScript</li>
+</ul>
 
 <h3>Tools & Technology</h3>
 <h4>Front-End Technologies</h4>
