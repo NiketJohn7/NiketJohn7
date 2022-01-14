@@ -35,7 +35,7 @@ Nationality: India
 </ul>
 <h4>Back-End Technology</h4>
 <ul>
-  <li>Python (django&Flask)</li>
+  <li>Python (django)</li>
   <li>Node Js</li>
  </ul>
 <!---
