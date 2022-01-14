@@ -8,7 +8,7 @@ Age: 13
 <br>
 Sex: Male
 <br>
-Job: Co-founder Athlink
+Job: Co-founder & CEO Athlink
 <br>
 Nationality: India
 
