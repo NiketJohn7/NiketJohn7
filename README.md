@@ -1,11 +1,12 @@
 <h1>Hi, I love programming 👋</h1>
-<br>
 <p>I am an upcoming and self taught fullstack web developer</p>
-<br>
 <h3>About me</h3>
 -😀I like pop music
+<br>
 -💖I love Programming
+<br>
 -🌇I love to vibe
+<br>
 -💤I am lazy
 <br>
 <h3>Programming Languages</h3>
