@@ -17,6 +17,26 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
+<br>
+<h3>Backend Frameworks</h3>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
+<br>
+<h3>Databases</h3>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
+<br>
+<h3>Development Tools</h3>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"></code>
+<br>
+<h3>IDE's and Text-Editors</h3>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
