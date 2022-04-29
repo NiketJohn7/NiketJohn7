@@ -37,7 +37,8 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
 <br>
-<a href="(https://github-readme-stats.vercel.app/api?username=niketjohn)](https://github.com/anuraghazra/github-readme-stats)">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=niketjohn&show_icons=true&theme=github_dark"></a>
+
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
