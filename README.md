@@ -1,4 +1,4 @@
->Hi, I love programming :wave:
+<h1>Hi, I love programming :wave:</h1>
 <p>I am an upcoming and self taught fullstack web developer</p>
 <h3>About me</h3>
 -😀I like pop music
@@ -12,7 +12,7 @@
 <h3>Programming Languages</h3>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
