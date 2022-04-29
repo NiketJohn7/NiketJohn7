@@ -1,43 +1,15 @@
-<h1>👋Hi I am Niket John</h1>
-
-<h3>Biography</h3>
-
-Name: Niket John
+<h1>Hi, I love programming 👋</h1>
 <br>
-Age: 13
+<p>I am an upcoming and self taught fullstack web developer</p>
 <br>
-Sex: Male
+<h3>About me</h3>
+-😀I like pop music
+-💖I love Programming
+-🌇I love to vibe
+-💤I am lazy
 <br>
-Job: Co-founder & CEO Athlink
-<br>
-Nationality: India
-
-<h3>Programming Languges</h3>
-<ul>
-  <li>C</li>
-  <li>C++</li>
-  <li>C#</li>
-  <li>Java</li>
-  <li>Python</li>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-</ul>
-
-<h3>Tools & Technology</h3>
-<h4>Front-End Technologies</h4>
-<ul>
-  <li>JavaScript</li>
-  <li>HTML & CSS</li>
-  <li>Bootstrap</li>
-  <li>Saas</li>
-</ul>
-<h4>Back-End Technology</h4>
-<ul>
-  <li>Python (django)</li>
-  <li>Node Js</li>
- </ul>
+<h3>Programming Languages</h3>
+<img src="https://camo.githubusercontent.com/2e496d4bfc6f753ddca87b521ce95c88219f77800212ffa6d4401ad368c82170/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" alt="HTML">
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
