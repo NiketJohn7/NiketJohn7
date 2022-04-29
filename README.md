@@ -35,8 +35,7 @@
 <h3>IDE's and Text-Editors</h3>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
