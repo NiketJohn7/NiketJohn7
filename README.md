@@ -41,7 +41,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=niketjohn&show_icons=true&theme=github_dark"></a>
 <br>
 <br>
-<a href="[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niketjohn&theme=cobalt&show_icons=true&count_private=true)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=niketjohn&theme=cobalt&show_icons=true&count_private=true
 "></a>
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
