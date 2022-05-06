@@ -1,13 +1,13 @@
-<h1>Hi, I love programming :wave:</h1>
+<h1>👋 I love programming</h1>
 <p>I am an upcoming and self taught fullstack web developer</p>
 <h3>About me</h3>
 -😀I like pop music
 <br>
--💖I love Programming
+-💖I love Web development
 <br>
--🌇I llove Nights
+-🌇I am a fan of the night
 <br>
--🎨I am not interested in GFX
+-🎨I find memes as the funniest thing
 <br>
 <h3>Programming Languages</h3>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
@@ -37,12 +37,11 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
 <br>
+<h3>Github Stats</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=niketjohn&show_icons=true&theme=tokyonight"></a>
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=niketjohn&show_icons=true&theme=github_dark"></a>
-<br>
-<br>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=niketjohn&theme=cobalt&show_icons=true&count_private=true
-"></a>
+<h3>Most Used Languages</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niketjohn&show_icons=true&theme=tokyonight&layout=compact"></a>
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
