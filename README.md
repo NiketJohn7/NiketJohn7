@@ -37,11 +37,18 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
 <br>
-<h3>Github Stats</h3>
+
+## Working Projects
+ - Workflow Automation: Automate your programming workflow
+ - News Api: An api for getting news from various sites 
+ - Dispy: An api wrapper for the discord api
+
+## Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=niketjohn&show_icons=true&theme=tokyonight"></a>
 <br>
 <h3>Most Used Languages</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niketjohn&show_icons=true&theme=tokyonight&layout=compact"></a>
+
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
