@@ -44,10 +44,10 @@
  - Dispy: An api wrapper for the discord api
 
 ### Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=niketjohn&show_icons=true&theme=tokyonight"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=nuclearzzet&show_icons=true&theme=tokyonight"></a>
 <br>
 <h3>Most Used Languages</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niketjohn&show_icons=true&theme=tokyonight&layout=compact"></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearzzet&show_icons=true&theme=tokyonight&layout=compact"></a>
 
 <!---
 NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
