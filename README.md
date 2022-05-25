@@ -41,7 +41,7 @@
 ### Working Projects
  - Workflow Automation: Automate your programming workflow
  - News Api: An api for getting news from various sites 
- - Dispy: An api wrapper for the discord api
+ - TypeCord: An api wrapper for the discord api
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=nuclearzzet&show_icons=true&theme=tokyonight"></a>
