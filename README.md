@@ -1,13 +1,16 @@
-# 👋 Hello, There
-I am a fullstack web developer
+# ***👋 Hello, There***
+I am a **_fullstack_ web developer**
 ### About me
- 😀 likes pop music
-
- 💖 loves web development
-
- 🌇 fan of the night
-
+ 😀 likes pop musicd 
+ 
+ 💖 loves web development 
+ 
+ 🌇 fan of the night 
+ 
  🎨 memes are the funniest thing
+
+
+
 
 ### Programming Languages
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
