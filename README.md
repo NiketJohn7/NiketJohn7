@@ -1,5 +1,6 @@
 # ***👋 Hello, There***
-I am a **_fullstack_ web developer**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B23F&lines=Welcome+to+my+GitHub;Fullstack++web+developer;Pleasure+to+meet+you;)](https://git.io/typing-svg)
+
 ### About me
  😀 likes pop musicd 
  
