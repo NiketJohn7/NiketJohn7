@@ -1,15 +1,15 @@
-<h1>👋 I love programming</h1>
-<p>I am an upcoming and self taught fullstack web developer</p>
-<h3>About me</h3>
--😀I like pop music
-<br>
--💖I love Web development
-<br>
--🌇I am a fan of the night
-<br>
--🎨I find memes as the funniest thing
-<br>
-<h3>Programming Languages</h3>
+# 👋 Hello, There
+I am a fullstack web developer
+### About me
+ 😀 likes pop music
+
+ 💖 loves web development
+
+ 🌇 fan of the night
+
+ 🎨 memes are the funniest thing
+
+### Programming Languages
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
@@ -18,26 +18,26 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
-<br>
-<h3>Backend Frameworks</h3>
+
+### Backend Framworks
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-<br>
-<h3>Databases</h3>
+
+### Databases
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
-<br>
-<h3>Development Tools</h3>
+
+### Development Tools
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"></code>
-<br>
-<h3>IDE's and Text-Editors</h3>
+
+### IDE's and Text-Editors
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
-<br>
+
 
 ### Working Projects
  - Workflow Automation: Automate your programming workflow
