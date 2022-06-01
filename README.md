@@ -17,9 +17,7 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 
