@@ -20,9 +20,12 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
 
 ### Backend Framworks
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
+
+
 
 ### Databases
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
