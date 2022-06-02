@@ -25,6 +25,10 @@
 ### Backend Framworks
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
 
+### Frontend Frameworks 
+
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
 
 
 ### Databases
