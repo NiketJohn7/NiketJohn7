@@ -19,9 +19,10 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
 
-### Backend Framworks
+### Backend Framworks 
+<code><img height="25" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+<code><img height="23" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 
 ### Frontend Frameworks 
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
