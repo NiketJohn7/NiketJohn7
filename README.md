@@ -17,10 +17,10 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
 
 ### Backend Framworks 
-<code><img height="25" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
 <code><img height="23" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 
