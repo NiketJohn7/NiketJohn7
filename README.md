@@ -15,12 +15,10 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
+<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
 
 ### Backend Framworks 
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
 <code><img height="23" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
 
@@ -30,9 +28,6 @@
 
 ### Databases
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg"></code>
 
 ### Development Tools
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
