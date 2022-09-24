@@ -14,8 +14,8 @@
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
+<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
 
 ### Backend Framworks 
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
@@ -29,20 +29,8 @@
 ### Databases
 <code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
 
-### Development Tools
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"></code>
-
-### IDE's and Text-Editors
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg"></code>
-
 ### Working Projects
- - Workflow Automation: Automate your programming workflow
- - News Api: An api for getting news from various sites 
- - TypeCord: An api wrapper for the discord api
+ - Website: My personal website <a href="https://github.com/nuclearzzet/website">Repository</a>
 
 ### Github Stats
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=nuclearzzet&show_icons=true&theme=tokyonight"></a>
