@@ -1,44 +1,31 @@
-# ***👋 Hello, There***
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F7B23F&lines=Welcome+to+my+GitHub;Fullstack++web+developer;Pleasure+to+meet+you;)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I am Nuclearzzet</h1>
 
-### About me
- 😀 likes pop musicd 
- 
- 💖 loves web development 
- 
- 🌇 fan of the night 
- 
- 🎨 memes are the funniest thing
+<p align="center">An upcoming web and systems developer</p>
 
-### Programming Languages
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"></code>
-<code><img height="25" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"></code>
+## About Me 🎭
+I am an upcoming web and systems developer. I started learning programming in mid 2020, I took on the hobby of creating small and simple web pages. At the age of 12 I got into the more advanced level of programming and started learning python. I got interested into Web Development and by late 2021 I started learning PHP, JavaScript, Java and C. I hope to improve my web development skills and in the near future I would like to get my hands onto Systems Development.
 
-### Backend Framworks 
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg"></code>
-<code><img height="23" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"></code>
+## Skills 🚀
 
-### Frontend Frameworks 
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"></code>
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"></code>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,c,mysql,mongodb,github,git,powershell,twitter,discord,linkedin)](https://skillicons.dev)
 
-### Databases
-<code><img height="20" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"></code>
+## Projects 🏗
 
-### Working Projects
  - Website: My personal website <a href="https://github.com/nuclearzzet/website">Repository</a>
+ - Socioo: A social media website <a href="https://github.com/nuclearzzet/socioo">Repository</a>
+ - Sponker: A Discord Bot <a href="https://github.com/nuclearzzet/sponkers">Repository</a>
+ 
+## Connect with me ☎
 
-### Github Stats
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=nuclearzzet&show_icons=true&theme=tokyonight"></a>
+- [Twitter](https://twitter.com/nuclearzzet)
+- [Website](https://nuclearzzet.dev) Soon....
 
-### Most used Language
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearzzet&show_icons=true&theme=tokyonight&layout=compact"></a>
+## Github Stats 💹
+<a href="https://github.com/nuclearzzet"><img height="200px" src="https://github-readme-stats.vercel.app/api?username=nuclearzzet&show_icons=true&theme=tokyonight"></a>
+<br>
+<a href="https://github.com/nuclearzzet"><img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuclearzzet&show_icons=true&theme=tokyonight&layout=compact"></a>
 
 <!---
-NiketJohn7/NiketJohn7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+nuclearzzet/nuclearzzet is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
