@@ -7,7 +7,7 @@ I am an upcoming web and systems developer. I started learning programming in mi
 
 ## Skills 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,c,mysql,mongodb,github,git,powershell,twitter,discord,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,nodejs,c,cpp,mysql,mongodb,github,git,powershell,twitter,discord,linkedin)](https://skillicons.dev)
 
 ## Projects 🏗
 
