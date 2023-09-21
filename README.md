@@ -7,12 +7,12 @@ I am an upcoming web and systems developer. I started learning programming in mi
 
 ## Skills 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,php,nodejs,mysql,mongodb,github,git,powershell,twitter,discord,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,php,mysql,mongodb,github,git,powershell,twitter,discord,linkedin)](https://skillicons.dev)
 
 ## Projects 🏗
 
  - Website: My personal website <a href="https://github.com/nuclearzzet/website">Repository</a>
- - Socioo: A social media website <a href="https://github.com/nuclearzzet/socioo">Repository</a>
+ - Drone: My own custom drone <a href="https://github.com/nuclearzzet/Drone">Repository</a>
  - Sponker: A Discord Bot <a href="https://github.com/nuclearzzet/sponkers">Repository</a>
  
 ## Connect with me ☎
